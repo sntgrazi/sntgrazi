@@ -1,6 +1,6 @@
 ### Oii, me chamo Grazi 
 
-- 🌱 Atualmente estou estudando Python
+
 
 <div align="center">
   <a href="https://github.com/sntgrazi">
