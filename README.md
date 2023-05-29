@@ -14,4 +14,4 @@
   <img align="center" alt="Grazi-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sntgrazi&bg_color=0d1117&color=48D1CC&line=48D1CC&point=ff9494&area=true&hide_border=true&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sntgrazi&bg_color=0d1117&color=48D1CC&line=48D1CC&point=ff9494&area=true&hide_border=true&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
