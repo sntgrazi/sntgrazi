@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Grazielle+Santana;I'm+20+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Grazielle+Santana;I'm+21+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
 <a href = "sntgrazi22@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
